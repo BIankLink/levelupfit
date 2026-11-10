@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://cj4qi7ohv7ub"]
-
-[ext_resource type="Script" uid="uid://dc8dqi1i5s0q" path="res://scripts/test_quest.gd" id="1_k4tpf"]
-
-[node name="Node2D" type="Node2D" unique_id=1292521062]
-script = ExtResource("1_k4tpf")
